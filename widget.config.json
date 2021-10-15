@@ -1,0 +1,20 @@
+{
+  "packageId": "",
+  "spaceId": "spca33AJDEVhL",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "Hello World (JavaScript)",
+    "en-US": "Hello World (JavaScript)"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorName": "Vika",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://vika.cn",
+  "authorEmail": "dev@vikadata.com",
+  "description": {
+    "zh-CN": "小组件 javascript hello world 模板",
+    "en-US": "widgets hello world javascript template"
+  },
+  "globalPackageId": "wpkyVrnMm6ymP"
+}
