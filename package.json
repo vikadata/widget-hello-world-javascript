@@ -1,6 +1,6 @@
 {
   "name": "widgets-hello-world-javascript",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "description": "a vika widget",
   "engines": {
     "node": ">=8.x"
