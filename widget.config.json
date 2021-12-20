@@ -13,8 +13,8 @@
   "authorLink": "https://vika.cn",
   "authorEmail": "dev@vikadata.com",
   "description": {
-    "zh-CN": "小组件 javascript hello world 模板",
-    "en-US": "widgets hello world javascript template"
+    "zh-CN": "从一个最基础的 JavaScript 小组件开始开发",
+    "en-US": "Start building from a Hello World widget with JavaScript"
   },
   "globalPackageId": "wpkyVrnMm6ymP"
 }
