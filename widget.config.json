@@ -16,5 +16,6 @@
     "zh-CN": "从一个最基础的 JavaScript 小程序开始开发",
     "en-US": "Start building from a Hello World widget with JavaScript"
   },
-  "globalPackageId": "wpkyVrnMm6ymP"
+  "globalPackageId": "wpkyVrnMm6ymP",
+  "sandbox": true
 }
